@@ -28,7 +28,7 @@ for n = 1:2000
     w  = w - 0.02*(in'*(ye-y));
     ye = in*w;   
 end
-
+ye
 
 
        

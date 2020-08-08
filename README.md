@@ -7,4 +7,4 @@
 
 4. script_nearest.py has the code of k nearest neighbours in python  
   
-5.xor_nn.py has the python script of xor logic implementation using neural networks
+5. xor_nn.py has the python script of xor logic implementation using neural networks

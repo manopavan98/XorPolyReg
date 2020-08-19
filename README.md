@@ -9,4 +9,6 @@
   
 5. xor_nn.py has the python script of xor logic implementation using neural networks  
 
-6. mnist_pytorch has the python script of mnist digits classification using pytorch(neural networks)
+6. mnist_pytorch has the python script of mnist digits classification using pytorch(neural networks)  
+
+7. mnistnum1 has the python script of mnist digit classification using only numpy(neural networks)
